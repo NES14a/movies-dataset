@@ -21,7 +21,7 @@ def load_data():
     df = pd.read_csv("data/movies_genres_summary.csv")
     return df
 
-
+  # 123123
 df = load_data()
 
 # Show a multiselect widget with the genres using `st.multiselect`.
